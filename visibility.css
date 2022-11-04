@@ -2,7 +2,7 @@
     #VISIBILITY UTILITIES
 \*------------------------------------*/
 
-/* Completely remove from the flow and screen readers. */
+/* Completely remove from the flow and screen readerss. */
 .pds-u-is-hidden {
   display: none !important;
   visibility: hidden !important;
